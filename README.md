@@ -77,7 +77,7 @@ There are code examples and notes from the book for each item in its own Markdow
   - [Item 47 - Know and use the libraries](https://github.com/Kasperczyk/effective-java/blob/master/Chapter_7-General_Programming/item47.md)
   - [Item 48 - Avoid float and double if exact answers are required](https://github.com/Kasperczyk/effective-java/blob/master/Chapter_7-General_Programming/item48.md)
   - [Item 49 - Prefer primitive types to boxed types](https://github.com/Kasperczyk/effective-java/blob/master/Chapter_7-General_Programming/item49.md)
-  - [Item 50 - Avoid strings where other types are more appropriate](https://github.com/Kasperczyk/effective-java/blob/master/Chapter_7-General_Programming/item49.md)
+  - [Item 50 - Avoid strings where other types are more appropriate](https://github.com/Kasperczyk/effective-java/blob/master/Chapter_7-General_Programming/item50.md)
   - Item 51
   - Item 52
   - Item 53
