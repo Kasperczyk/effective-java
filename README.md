@@ -19,6 +19,13 @@ There are code examples and notes from the book for each item in its own Markdow
 - Abstract Factory
 - Explicit Termination Method
 
+## Status
+
+As of Oct 7th 2015:
+
+[+++++++++++++++++.............................................................]
+(17/78 - 21.8%)
+
 ## Contents
 
 - [Chapter  1 - Creating and Destroying Objects](https://github.com/Kasperczyk/effective-java/tree/master/Chapter_1-Creating_and_Destroying_Objects)
