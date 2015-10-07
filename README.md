@@ -36,7 +36,7 @@ There are code examples and notes from the book for each item in its own Markdow
   - Item 11
   - Item 12
 - Chapter  3 - Classes and Interfaces
-  - Item 13
+  - [Item 13 - Minimize the accessibility of classes and members](https://github.com/Kasperczyk/effective-java/blob/master/Chapter_3-Classes_and_Interfaces/item13.md)
   - Item 14
   - Item 15
   - Item 16
