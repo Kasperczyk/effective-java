@@ -35,7 +35,7 @@ There are code examples and notes from the book for each item in its own Markdow
   - [Item 10 - Always override toString](https://github.com/Kasperczyk/effective-java/blob/master/Chapter_2-Methods_Common_to_All_Objects/item10.md)
   - Item 11
   - Item 12
-- Chapter  3 - Classes and Interfaces
+- [Chapter  3 - Classes and Interfaces](https://github.com/Kasperczyk/effective-java/tree/master/Chapter_3-Classes_and_Interfaces)
   - [Item 13 - Minimize the accessibility of classes and members](https://github.com/Kasperczyk/effective-java/blob/master/Chapter_3-Classes_and_Interfaces/item13.md)
   - Item 14
   - Item 15
