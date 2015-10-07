@@ -7,17 +7,4 @@
 - toString is automatically invoked when an object is passed to println, printf, the string concatenation operator, or assert, or printed by a debugger
 - when practical, the toString method should return all of the interesting information contained in the object
 - the string should be self-explanatory / should return a summary
-
-## Examples
-
-### basic example
-
-## Explanation
-
-## Advantages
-
-## Disadvantages
-
-## When to use
-
-## Summary
+- format *(?)* / todo
